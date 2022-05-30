@@ -1,5 +1,4 @@
-#!/usr/bin/python3
-[A[C[C[C[C[C[C[C[C[C[C[C[C[C#ifndef LISTS_H
+#ifndef LISTS_H
 #define LISTS_H
 
 #include <stdlib.h>
@@ -23,4 +22,4 @@ listint_t *add_nodeint(listint_t **head, const int n);
 void free_listint(listint_t *head);
 int check_cycle(listint_t *list);
 
-#endif /* LISTS_H */[B[B[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[A[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B[B
+#endif /* LISTS_H */

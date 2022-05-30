@@ -1,2 +1,2 @@
-#!/urs/bin/bash
-python3 -m compileall -b "$PYFILE"
+#!/bin/bash
+python3 -m compileall -b "$PYFILE"[D[D[D[D[D[D[D[D[D[D[D[D[D[D[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[D[D[D[D[D
